@@ -1,0 +1,25 @@
+// testdata.json
+[
+  {
+    "model": "myapp.lodging",
+    "pk": 1,
+    "fields": {
+      "name": "Hotel A",
+      "address": "123 Main St",
+      "place": "City X",
+      "price": 100,
+      "headCount": 2
+    }
+  },
+  {
+    "model": "myapp.lodging",
+    "pk": 2,
+    "fields": {
+      "name": "Resort B",
+      "address": "456 Park Ave",
+      "place": "City Y",
+      "price": 200,
+      "headCount": 4
+    }
+  }
+]
